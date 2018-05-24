@@ -1,0 +1,18 @@
+body {
+    background-image: url("./kenny.jpg");
+    background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family:'annie use your telescope'
+}
+
+a {
+	font-family:'annie use your telescope'
+}
+
+/*  */
+.opaque {
+	opacity:0.5
+}
