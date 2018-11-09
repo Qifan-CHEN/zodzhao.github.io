@@ -1,7 +1,54 @@
-body {
-    background-image: url("./kenny.jpg");
-    background-size: cover;
-	background-repeat: no-repeat;
+/* body { */
+    /* background-image: url("./kenny.jpg"); */
+    /* background-size: cover; */
+	/* background-repeat: no-repeat; */
+/* } */
+#header {
+	background-color: #005581;
+}
+
+.row {
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.member-card {
+	text-align: center;
+	color: black;
+	background-color: white;
+	border-radius: 0;
+	border-width: 0;
+	margin-bottom: 10px;
+}
+
+.tab-session {
+	padding: 10px;
+}
+	
+
+.member-picture {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.card-ind {
+	padding: 10px;
+}
+
+.side {
+	background-color: #f1f1f1;
+	border-width: 0px;
+}
+
+table {
+	margin: 0 auto;
+	width: 80%
+}
+
+footer {
+	background-color: #f1f1f1;
 }
 
 h1 {
@@ -10,6 +57,11 @@ h1 {
 
 a {
 	font-family:'annie use your telescope'
+}
+
+.page-top {
+	/* add to page top so fixed navbar won't affect*/
+	padding-top:50px; 
 }
 
 /*  */
