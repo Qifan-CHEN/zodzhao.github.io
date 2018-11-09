@@ -1,8 +1,3 @@
-/* body { */
-    /* background-image: url("./kenny.jpg"); */
-    /* background-size: cover; */
-	/* background-repeat: no-repeat; */
-/* } */
 #header {
 	background-color: #005581;
 }
@@ -61,7 +56,7 @@ a {
 
 .page-top {
 	/* add to page top so fixed navbar won't affect*/
-	padding-top:50px; 
+	padding-top:20px; 
 }
 
 /*  */
