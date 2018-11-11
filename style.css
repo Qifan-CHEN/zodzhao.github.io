@@ -9,6 +9,10 @@
 	margin-right: 0px;
 }
 
+.leftpad {
+	padding-left: 20px;
+
+}
 .member-card {
 	text-align: center;
 	color: black;
